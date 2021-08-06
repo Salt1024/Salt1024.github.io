@@ -1,0 +1,1 @@
+import{d as e,g as a,o,c as s,t as c,w as d}from"./vendor.6e800cb5.js";var r=e({setup:()=>({welcome:a("Welcome")})});const t=d()(((e,a,d,r,t,l)=>(o(),s("div",null,c(e.welcome),1))));r.render=t,r.__scopeId="data-v-06fcba7a";export default r;
