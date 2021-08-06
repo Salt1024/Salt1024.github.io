@@ -1,0 +1,1 @@
+System.register(["./vendor-legacy.39235770.js"],(function(e){"use strict";var t,n,r,c,u,o;return{setters:[function(e){t=e.d,n=e.g,r=e.o,c=e.c,u=e.t,o=e.w}],execute:function(){var s=e("default",t({setup:function(){return{welcome:n("Welcome")}}})),a=o()((function(e,t,n,o,s,a){return r(),c("div",null,u(e.welcome),1)}));s.render=a,s.__scopeId="data-v-06fcba7a"}}}));
